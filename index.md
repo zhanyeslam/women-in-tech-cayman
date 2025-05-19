@@ -18,10 +18,10 @@ The project includes:
 - Zhan Yeslam (main contributor)
 
 ## 📊 Project Sections
-- [Topic](topic.html)
-- [Methodology](methodology.html)
-- [SPARQL & Prompts](sparql.html)
-- [Challenges](challenges.html)
+- [Topic](topic.md)
+- [Methodology](methodology.md)
+- [SPARQL & Prompts](sparql.md)
+- [Challenges](challenges.md)
 
 ---
 
